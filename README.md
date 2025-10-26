@@ -1,2 +1,2 @@
 # practice-github
-This is my GitHub learning class
+This is my Git and GitHub learning class
